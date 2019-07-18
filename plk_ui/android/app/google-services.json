@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "640657851721",
+    "firebase_url": "https://sales-jungle-6e918.firebaseio.com",
+    "project_id": "sales-jungle-6e918",
+    "storage_bucket": "sales-jungle-6e918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640657851721:android:f05569d7759513f1",
+        "android_client_info": {
+          "package_name": "com.example.plkui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640657851721-t6b7leegs9vg5ihtn26npcn2g0lg0tt4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo49upgEg1sqpsoSOulhbTjwT0nd19UUc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
